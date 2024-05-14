@@ -1,11 +1,5 @@
 # Polkadot-knowledge-map
 
-# **Welcome to OpenGuild’s Monthly hackathon and become a Polkadot Innovator!**
-
-By joining the hackathon you will push the boundaries of blockchain technology by crafting innovative solutions for real-world problems.
-
-Plus, this is your chance to level up your skills, from mastering advanced blockchain concepts to building a portfolio-worthy project that will impress the community. Gain valuable experience with Polkadot's core tech and potentially even become a recognized expert by contributing to the official documentation.
-
 ## GETTING STARTED
 
 **No matter your level of familiarity with blockchain development, we are here to get you started and ready for the hackathon!**

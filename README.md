@@ -105,7 +105,7 @@ Important and useful tooling can be found in the [Substrate Documentation, locat
 * [Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
 * [Overview of Polkadot and its Design Consideration](https://polkadot.network/PolkaDotPaper.pdf)
 
-## ECOSYSTEM CHALLENGE RESOURCES
+## PARACHAIN ECOSYSTEM
 
 **FYI. All of our ecosystem teams have a channel open for support on our Discord.**
 
